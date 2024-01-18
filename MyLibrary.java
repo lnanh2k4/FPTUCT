@@ -1,11 +1,11 @@
-package s01reversestring;
+
 
 import java.util.Scanner;
 
 /**
- * S01 - Reverse a string; convert to upper case and vice versa.
+ * 
  *
- * @author CE181767 Le Nhut Anh
+ * @author Le Nhut Anh
  */
 public class MyLib {
 
