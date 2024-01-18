@@ -10,7 +10,7 @@ import java.util.function.Consumer;
 
 /**
  *
- * @author CE181767 Le Nhut Anh
+ * @author Le Nhut Anh
  */
 public class SinglyLinkedList<T> implements Iterable<T> {
 
