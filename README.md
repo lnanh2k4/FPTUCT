@@ -1,5 +1,5 @@
 # _**Anh Lanh Nhanh**_ - FPT Universiy Can Tho Campus
-Excercises is finished at FPT University Cần Thơ (for K18)
+Excercises is finished at FPT Universiy Can Tho Campus (for K18)
 <hr>
 <h2>JPD 113</h2>
 #Learn Hiragana & Katakana
